@@ -17,7 +17,7 @@ public class Exercise08 {
         // Bucle que itera mientras x sea menor que num
         while (x < num) {
             // Asegúrate de que el mensaje coincide con lo que se espera en la prueba
-            System.out.println(x + " < " + num + ". El proximo ciclo valdrá: " + (x + 1));
+            System.out.println(x + " < " + num + ". El proximo ciclo valdra: " + (x + 1));
             x++;
         }
     }
